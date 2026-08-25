@@ -9,7 +9,7 @@
 }
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
-body{margin:0;background:#030303;color:#eee5d7;font-family:Montserrat,sans-serif;background:#030303 url("../assets/fundo.jpg") top/cover no-repeat}
+body{margin:0;background:#030303;color:#eee5d7;font-family:Montserrat,sans-serif;background:#030303 url("../assets/fundo.png") top/cover no-repeat}
 body.booking-open{overflow:hidden}
 a{text-decoration:none;color:inherit}
 
