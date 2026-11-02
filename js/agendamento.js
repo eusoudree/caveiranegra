@@ -6,7 +6,7 @@ $(function () {
 
   const CONFIG = {
     amount: 250,
-    paymentUrl: "https://mpago.la/2CvfSYS",
+    paymentUrl: "https://loja.infinitepay.io/caveiranegra/iyr6559-oraculo-dos-mortos",
 
     // 0 domingo, 1 segunda ... 6 sábado.
     // ALTERE AQUI OS HORÁRIOS DA SUA AGENDA.
